@@ -1,0 +1,12 @@
+{
+  "name": "lo-que-neura-quiere-borrar",
+  "version": "1.0.0",
+  "description": "Foro/movimiento social ficticio para cortometraje universitario",
+  "scripts": {
+    "build": "cd server && npm install && npm run build",
+    "start": "cd server && npm start"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
